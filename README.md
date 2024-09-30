@@ -11,6 +11,6 @@ I'm a passionate machine learning enthusiast with a strong foundation in data an
 ## Get in Touch
 
 - LinkedIn: [linkedin.com/in/pradeesh-ml](https://www.linkedin.com/in/pradeesh-ml)
-- Email: [pradeesh120805@gmail.com]
+- Email: pradeesh120805@gmail.com
 
 Looking forward to connecting with you!
