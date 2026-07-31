@@ -1,16 +1,15 @@
-# Hi there! 👋 I'm Pradeesh
+# 💫 About Me:
+Hi, I'm Pradeesh. I am an M.Tech student in Artificial Intelligence and Data Science with a strong interest in machine learning, deep learning, large language models, and computer vision. I enjoy building intelligent systems that solve real-world problems while understanding the mathematics and algorithms behind them. My interests extend to multi-agent AI, retrieval-augmented generation (RAG), explainable AI, and data engineering. I believe that great AI systems are built on strong fundamentals, so I continuously explore new research, experiment with emerging technologies, and develop projects that are efficient, scalable, and reliable. I am passionate about learning, solving challenging problems, and contributing to impactful AI applications.<br>
 
-I'm a passionate machine learning enthusiast with a strong foundation in data analytics and programming. I am dedicated to exploring the transformative potential of machine learning, focusing on practical applications that make a difference.
 
-## About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pradeesh-ml/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pradeeshml69@gmail.com) 
 
-- 🎓 Currently pursuing a B.Tech in Artificial Intelligence and Data Science.
-- 💻 Skilled in Python, Pandas, NumPy, Matplotlib, SQL, and data processing.
-- 🌱 Always eager to learn more about cutting-edge technologies and methodologies in machine learning.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pradeesh-ml&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=pradeesh-ml&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pradeesh-ml&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Get in Touch
-
-- LinkedIn: [linkedin.com/in/pradeesh-ml](https://www.linkedin.com/in/pradeesh-ml)
-- Email: pradeeshml69@gmail.com
-
-Looking forward to connecting with you!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
